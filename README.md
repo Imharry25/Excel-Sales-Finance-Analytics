@@ -102,7 +102,7 @@ Sales analytics enables a deep understanding of product and regional performance
 ### Soft Skills:
 
 - 💡 Business-Oriented Approach: Designing analytics with a focus on business objectives.
-- 🎨 **Report Design: Creating visually appealing and user-friendly reports tailored to executive needs.
+- 🎨 Report Design: Creating visually appealing and user-friendly reports tailored to executive needs.
 - 📋 Strategic Planning: Planning and executing reports that align with company goals and objectives.
 - 🔎 Data Accuracy: Ensuring all reports are clear, concise, and accurate for decision-makers.
 
