@@ -15,19 +15,20 @@ Here’s what we aim to achieve:
  -🏆 Deliver actionable insights to help AtliQ strengthen its market position and boost profitability!
 
 
-## Sales Analysis
+## Sales Analytics
+Sales analytics enables a deep understanding of product and regional performance. AtliQ can identify top-performing products, uncover growth opportunities in key regions, and refine strategies to maximize profitability.
 
 ### Objectives
-1. **Top 10 Products with Sales Increase**: Identify which products had the biggest increase in sales from 2020 to 2021.
-2. **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
-3. **Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.
+1. **Top 10 Products with Sales Increase**: Identify which products had the biggest % increase in net sales from 2020 to 2021.
+2. **Division Sales Report**: Create a report by division (e.g. PCs, N & S, P & A, and PC), showing net sales data for 2020 and 2021, along with the growth percentage.
+3. **Top and Bottom 5 Sold Products**: Identify the top 5 (best) and bottom 5 (worst-performing) products sold by quantity, guiding inventory and marketing strategies.
 4. **New Products in 2021**: List new products Atliq started selling in 2021.
 5. **Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021.
 
 ### Sales Analysis Reports
 
 1. **Top 10 Products with Sales Increase**
-   - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+   - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor".
 
 2. **Division Sales Report**
    - Insights: 
@@ -44,8 +45,7 @@ Here’s what we aim to achieve:
 
 5. **Top 5 Sales Countries in 2021**
    - Insights: 
-     - India led with $161.3 million in sales.
-     - Strong sales also noted in the USA, South Korea, the UK, and Canada.
+     - India led with $161.3 million in sales, followed by USA & South Korea.
 
 ## Financial Analysis
 
@@ -63,7 +63,7 @@ Here’s what we aim to achieve:
    - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
 
 2. **Market Performance vs. Sales Targets Comparison**
-   - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+   - Insights: Markets fell short of their sales targets, providing insights for future strategies.
 
 3. **Yearly Profit and Loss (P&L) Report**
    - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
@@ -72,10 +72,10 @@ Here’s what we aim to achieve:
    - Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
 
 5. **Market-Specific Profit and Loss (P&L) Report**
-   - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
+   - Insights: Japan and New Zealand showed the highest GM %, while Germany had lowest.
 
-6. **Quarterly Gross Margin Percentage (GM%) by Location**
-   - Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+6. **Quarterly Gross Margin Percentage (GM%) by Sub_Zone**
+   - Insights: Variations in GM % by Sub Zone, aiding in performance assessments and strategic decisions.
 
 ## Overall Insights
 - **Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
@@ -91,5 +91,18 @@ Here’s what we aim to achieve:
 
 ---
 
-This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
+Skills 🧑‍💻
+Technical Skills:
+
+🔄 ETL Processes: Expertise in Extract, Transform, and Load (ETL) to streamline data management.
+🛠️ Power Query: Proficient in transforming and automating data for insightful analysis.
+🔢 DAX: Skilled in creating custom calculations and measures with Data Analysis Expressions.
+🏗️ Power Pivot: Data modeling and relationship building to create effective business reports.
+📊 Pivot Tables: Crafting dynamic reports with pivot tables to showcase key performance metrics.
+Soft Skills:
+
+💡 Business-Oriented Approach: Designing analytics with a focus on business objectives.
+🎨 **Report Design: Creating visually appealing and user-friendly reports tailored to executive needs.
+📋 Strategic Planning: Planning and executing reports that align with company goals and objectives.
+🔎 Data Accuracy: Ensuring all reports are clear, concise, and accurate for decision-makers.
 
