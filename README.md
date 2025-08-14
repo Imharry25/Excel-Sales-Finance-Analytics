@@ -88,8 +88,7 @@ Sales analytics enables a deep understanding of product and regional performance
 - **Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.
 - **Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.
 - **Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making.
-
----
+- 
 
 ## Skills 🧑‍💻
 ### Technical Skills:
@@ -107,3 +106,4 @@ Sales analytics enables a deep understanding of product and regional performance
 - 📋 Strategic Planning: Planning and executing reports that align with company goals and objectives.
 - 🔎 Data Accuracy: Ensuring all reports are clear, concise, and accurate for decision-makers.
 
+---
