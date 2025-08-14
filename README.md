@@ -10,9 +10,9 @@ This report delves into AtliQ’s sales and financial performance, leveraging da
 ## Problem Statement
 To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.  
 Here’s what we aim to achieve:
-  -💡 Develop detailed sales and financial reports to track trends and provide data-driven decision support.
- -📈 Identify ways to enhance product offerings and optimize regional sales strategies.
- -🏆 Deliver actionable insights to help AtliQ strengthen its market position and boost profitability!
+ - 💡 Develop detailed sales and financial reports to track trends and provide data-driven decision support.
+ - 📈 Identify ways to enhance product offerings and optimize regional sales strategies.
+ - 🏆 Deliver actionable insights to help AtliQ strengthen its market position and boost profitability!
 
 
 ## Sales Analytics
@@ -91,18 +91,19 @@ Sales analytics enables a deep understanding of product and regional performance
 
 ---
 
-Skills 🧑‍💻
-Technical Skills:
+## Skills 🧑‍💻
+### Technical Skills:
 
-🔄 ETL Processes: Expertise in Extract, Transform, and Load (ETL) to streamline data management.
-🛠️ Power Query: Proficient in transforming and automating data for insightful analysis.
-🔢 DAX: Skilled in creating custom calculations and measures with Data Analysis Expressions.
-🏗️ Power Pivot: Data modeling and relationship building to create effective business reports.
-📊 Pivot Tables: Crafting dynamic reports with pivot tables to showcase key performance metrics.
-Soft Skills:
+- 🔄 **ETL Processes**: Expertise in Extract, Transform, and Load (ETL) to streamline data management.
+- 🛠️ **Power Query**: Proficient in transforming and automating data for insightful analysis.
+- 🔢 **DAX**: Skilled in creating custom calculations and measures with Data Analysis Expressions.
+- 🏗️ **Power Pivot**: Data modeling and relationship building to create effective business reports.
+- 📊 **Pivot Tables**: Crafting dynamic reports with pivot tables to showcase key performance metrics.
 
-💡 Business-Oriented Approach: Designing analytics with a focus on business objectives.
-🎨 **Report Design: Creating visually appealing and user-friendly reports tailored to executive needs.
-📋 Strategic Planning: Planning and executing reports that align with company goals and objectives.
-🔎 Data Accuracy: Ensuring all reports are clear, concise, and accurate for decision-makers.
+### Soft Skills:
+
+- 💡 Business-Oriented Approach: Designing analytics with a focus on business objectives.
+- 🎨 **Report Design: Creating visually appealing and user-friendly reports tailored to executive needs.
+- 📋 Strategic Planning: Planning and executing reports that align with company goals and objectives.
+- 🔎 Data Accuracy: Ensuring all reports are clear, concise, and accurate for decision-makers.
 
