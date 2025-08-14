@@ -10,9 +10,9 @@ This report delves into AtliQ’s sales and financial performance, leveraging da
 ## Problem Statement
 To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.  Here’s what we aim to achieve:
 
--💡 Develop detailed sales and financial reports to track trends and provide data-driven decision support.
--📈 Identify ways to enhance product offerings and optimize regional sales strategies.
--🏆 Deliver actionable insights to help AtliQ strengthen its market position and boost profitability!
+ -💡 Develop detailed sales and financial reports to track trends and provide data-driven decision support.
+ -📈 Identify ways to enhance product offerings and optimize regional sales strategies.
+ -🏆 Deliver actionable insights to help AtliQ strengthen its market position and boost profitability!
 
 
 ## Sales Analysis
